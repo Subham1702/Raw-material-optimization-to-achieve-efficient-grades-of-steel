@@ -13,3 +13,4 @@ Achieve a cost saving of at least $1M.
 ## Business Solution:
 I gathered research papers and relevant datasets, then conducted Exploratory Data Analysis (EDA) on a client-provided secondary dataset using MySQL and Python to gain initial insights into steel production materials, cycle-time, and electricity consumption. Leveraging Auto-EDA libraries, I automated the EDA process, quickly generating comprehensive visualizations and statistical insights. After cleaning the data, I used Power BI and generated interactive dashboards.
 ## Dashboard 1: KPI
+![alt text] ()
