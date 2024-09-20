@@ -16,4 +16,4 @@ I gathered research papers and relevant datasets, then conducted Exploratory Dat
 ![alt text] (https://github.com/Subham1702/Raw-material-optimization-to-achieve-efficient-grades-of-steel/blob/main/Screenshot%20(368).png)
 
 ## Dashboard 2: Detailed Report.
-![alt text] ()
+![alt text] (https://github.com/Subham1702/Raw-material-optimization-to-achieve-efficient-grades-of-steel/blob/main/Screenshot%20(367).png)
