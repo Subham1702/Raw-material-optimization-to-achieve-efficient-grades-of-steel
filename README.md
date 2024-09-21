@@ -20,7 +20,7 @@ I gathered research papers and relevant datasets, then conducted Exploratory Dat
 
 ## Insights from the Data Analysis:
 1. Correlation Matrix:
-![alt text]()
+![alt text](https://github.com/Subham1702/Raw-material-optimization-to-achieve-efficient-grades-of-steel/blob/main/Correlation%20Matrix.png)
 - Scrap steel usage is positively correlated with yield increasing scrap steel leads to better production efficiency.
 - Higher scrap steel usage shows a slight reduction in energy consumption making it more energy-efficient.
 - Increasing the proportion of scrap steel can help optimize both yield and energy use
@@ -28,6 +28,7 @@ I gathered research papers and relevant datasets, then conducted Exploratory Dat
 - Increased pig iron usage slightly raises energy consumption driving up energy requirements.
 - Total energy consumption strongly correlates with production costs, indicating that higher energy use leads to increased costs per ton.
 2. Scatter Plot:
+  ![alt text]()
    (a). Scrap Steel (%) vs. Total Energy Consumption (Kwh): As the percentage of scrap steel increases, total energy consumption tends to decrease or remain stable. This suggests that increasing scrap steel usage could lead to more energy-efficient production, supporting the goal of minimizing energy consumption.
    (b). Pig Iron (%) vs. Estimated Cost per Ton ($): Higher percentages of pig iron result in higher estimated costs per ton. The plot shows a clear upward trend, meaning that reducing pig iron usage can help achieve cost savings, aligning with the business objective of reducing costs.
 
