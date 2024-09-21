@@ -20,21 +20,12 @@ I gathered research papers and relevant datasets, then conducted Exploratory Dat
 
 ## Insights from the Data Analysis:
 1. Correlation Matrix:
-      •	Scrap Steel (%):
-      o	Positively correlated with Yield (%) (0.44): As the percentage of scrap steel increases, the yield improves.
-      o	Weak negative correlation with Total Energy Consumption (-0.041): Higher scrap steel usage tends to slightly reduce energy consumption, supporting the idea that scrap steel is more energy-efficient.
-      •	Pig Iron (%):
-      o	Negatively correlated with Yield (%) (-0.43): Higher pig iron usage results in lower yield, which indicates inefficiencies in using pig iron.
-      o	Weak positive correlation with Total Energy Consumption (0.031): Slight increase in energy consumption with more pig iron.
-      •	Total Energy Consumption (Kwh):
-      o	Highly correlated with OriginalCost_Ton ($) (0.86): This strong positive correlation indicates that higher energy consumption drives up the cost per ton.
-      o	Positively correlated with Estimated Cost per Ton ($) (0.68): As energy consumption increases, the cost per ton also rises, emphasizing the importance of optimizing energy use to achieve cost savings.
-2. Scatter Plot: Scrap Steel (%) vs. Total Energy Consumption (Kwh):
-      •	As the percentage of scrap steel increases, total energy consumption tends to decrease or remain stable. This suggests that increasing scrap steel usage could lead to more energy-efficient production,     
-        supporting the goal of minimizing energy consumption.
-3. Scatter Plot: Pig Iron (%) vs. Estimated Cost per Ton ($):
-      •	Higher percentages of pig iron result in higher estimated costs per ton. The plot shows a clear upward trend, meaning that reducing pig iron usage can help achieve cost savings, aligning with the business 
-        objective of reducing costs.
+      • Scrap Steel (%): Positively correlated with Yield (%) (0.44): As the percentage of scrap steel increases, the yield improves. Weak negative correlation with Total Energy Consumption (-0.041): Higher scrap steel usage tends to slightly reduce energy consumption, supporting the idea that scrap steel is more energy-efficient.
+      • Pig Iron (%): Negatively correlated with Yield (%) (-0.43): Higher pig iron usage results in lower yield, which indicates inefficiencies in using pig iron. Weak positive correlation with Total Energy Consumption (0.031): Slight increase in energy consumption with more pig iron.
+      • Total Energy Consumption (Kwh):Highly correlated with OriginalCost_Ton ($) (0.86): This strong positive correlation indicates that higher energy consumption drives up the cost per ton. Positively correlated with Estimated Cost per Ton ($) (0.68): As energy consumption increases, the cost per ton also rises, emphasizing the importance of optimizing energy use to achieve cost savings.
+2. Scatter Plot:
+   (a). Scrap Steel (%) vs. Total Energy Consumption (Kwh): As the percentage of scrap steel increases, total energy consumption tends to decrease or remain stable. This suggests that increasing scrap steel usage could lead to more energy-efficient production, supporting the goal of minimizing energy consumption.
+   (b). Pig Iron (%) vs. Estimated Cost per Ton ($): Higher percentages of pig iron result in higher estimated costs per ton. The plot shows a clear upward trend, meaning that reducing pig iron usage can help achieve cost savings, aligning with the business objective of reducing costs.
 
 ### Statistical Insights:
 1. Correlation Analysis:
