@@ -30,6 +30,7 @@ I gathered research papers and relevant datasets, then conducted Exploratory Dat
 2. Scatter Plot:
   ![alt text](https://github.com/Subham1702/Raw-material-optimization-to-achieve-efficient-grades-of-steel/blob/main/Scatter_1.png)
    (a). Scrap Steel (%) vs. Total Energy Consumption (Kwh): As the percentage of scrap steel increases, total energy consumption tends to decrease or remain stable. This suggests that increasing scrap steel usage could lead to more energy-efficient production, supporting the goal of minimizing energy consumption.
+  ![alt text](https://github.com/Subham1702/Raw-material-optimization-to-achieve-efficient-grades-of-steel/blob/main/Scatter_2.png)
    (b). Pig Iron (%) vs. Estimated Cost per Ton ($): Higher percentages of pig iron result in higher estimated costs per ton. The plot shows a clear upward trend, meaning that reducing pig iron usage can help achieve cost savings, aligning with the business objective of reducing costs.
 
 ### Statistical Insights:
