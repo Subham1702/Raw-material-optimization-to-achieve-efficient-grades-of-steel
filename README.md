@@ -1258,7 +1258,8 @@ raw_data.to_excel('dataset.xlsx', index=False)
 </details>
 ## Data Visualization:
 ### Dashboard 1: KPI.
-![alt text](https://github.com/Subham1702/Raw-material-optimization-to-achieve-efficient-grades-of-steel/blob/main/Screenshot%20(367).png)
+
+![alt text](https://github.com/Subham1702/Raw-material-optimization-to-achieve-efficient-grades-of-steel/blob/main/Screenshot%20(368).png)
 
 ### Dashboard 2: Detailed Report.
 ![alt text](https://github.com/Subham1702/Raw-material-optimization-to-achieve-efficient-grades-of-steel/blob/main/Screenshot%20(367).png)
@@ -1298,7 +1299,3 @@ raw_data.to_excel('dataset.xlsx', index=False)
 ## Recommendations:
 - Optimize material composition to maximize yield and minimize costs.
 - Focus on improving energy efficiency in the Electric Arc Furnace (EAF) and Ladle Refining Furnace (LRF) stages.
-
-
-
-
